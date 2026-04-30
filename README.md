@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&lines=Hello+my+friend%2C+I'm+Hasti+Tabrizi" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&lines=Welcome+to+my+world+of+data%2C+creativity%2C+and+technology" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&lines=A+passionate+Data+Science+student+from+Canada" alt="Typing SVG" />
+  <img src="./assets/title.svg" alt="Animated Title" width="900" />
 </p>
 
 <p align="center">
