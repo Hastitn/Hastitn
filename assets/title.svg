@@ -55,10 +55,10 @@
   <text x="835" y="38" class="accent">✦
     <animate attributeName="opacity" from="0" to="1" begin="7.6s" dur="0.4s" fill="freeze" />
   </text>
-  <text x="158" y="165" class="accent">♡
+  <text x="170" y="165" class="accent">♡
     <animate attributeName="opacity" from="0" to="1" begin="7.8s" dur="0.4s" fill="freeze" />
   </text>
-  <text x="795" y="165" class="accent">♡
+  <text x="805" y="165" class="accent">♡
     <animate attributeName="opacity" from="0" to="1" begin="8s" dur="0.4s" fill="freeze" />
   </text>
   <text x="890" y="104" class="accent">✧
