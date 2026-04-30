@@ -1,10 +1,17 @@
-<h1 align="center">Hello my friend, I'm Hasti Tabrizi</h1>
-
-<h3 align="center">Welcome to my world of data, creativity, and technology</h3>
-<h3 align="center">A passionate Data Science student from Canada</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&lines=Hello+my+friend%2C+I'm+Hasti+Tabrizi" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5d49c65-4550-4cf7-be7e-2aadc4fc185a" alt="Profile Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&lines=Welcome+to+my+world+of+data%2C+creativity%2C+and+technology" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&lines=A+passionate+Data+Science+student+from+Canada" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="PASTE-YOUR-GIF-LINK-HERE" alt="Profile GIF" />
 </p>
 
 <p align="center">
@@ -18,7 +25,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Hasti%20Tabrizi-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
-
 
 
 
