@@ -81,9 +81,18 @@
   </rect>
 
   <!-- line 2 -->
-  <g clip-path="url(#clip2)">
-    <text x="500" y="110" class="main line2">Welcome to my world of data, creativity, and technology</text>
-  </g>
+<g clip-path="url(#clip2)">
+  <text x="500" y="110" class="main line2">Welcome to my world of data, creativity, and technology</text>
+</g>
+
+<!-- stars beside line 2 -->
+<text x="25" y="104" class="accent">✧
+  <animate attributeName="opacity" from="0" to="1" begin="7.7s" dur="0.4s" fill="freeze" />
+</text>
+
+<text x="965" y="104" class="accent">✧
+  <animate attributeName="opacity" from="0" to="1" begin="7.7s" dur="0.4s" fill="freeze" />
+</text>
 
   <!-- cursor 2 -->
   <rect x="110" y="88" width="3" height="24" class="cursor">
