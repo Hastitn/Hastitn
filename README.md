@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="PASTE-YOUR-GIF-LINK-HERE" alt="Profile GIF" />
+  <img src="./getsitecontrol__convert-video-to-gif__free.gif" alt="Profile GIF" width="500" />
 </p>
 
 <p align="center">
