@@ -61,7 +61,10 @@
   <text x="810" y="165" class="accent">♡
     <animate attributeName="opacity" from="0" to="1" begin="8s" dur="0.4s" fill="freeze" />
   </text>
-  <text x="890" y="104" class="accent">✧
+  <text x="130" y="104" class="accent">✧
+    <animate attributeName="opacity" from="0" to="1" begin="7.7s" dur="0.4s" fill="freeze" />
+  </text>
+  <text x="865" y="104" class="accent">✧
     <animate attributeName="opacity" from="0" to="1" begin="7.7s" dur="0.4s" fill="freeze" />
   </text>
 
